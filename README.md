@@ -32,4 +32,4 @@ cyans_v4
 
 ⚠️ | contem sistema de ticket mas e simples caso queira ticket mais completo basta adquirir aqui no anuncio no ticket menu
 
-![image](https://github.com/user-attachments/assets/63d0cc81-8e6e-4d51-9bfb-95a791f511c7)
+![image]([https://github.com/user-attachments/assets/63d0cc81-8e6e-4d51-9bfb-95a791f511c7](https://github-production-user-asset-6210df.s3.amazonaws.com/135639557/348421962-63d0cc81-8e6e-4d51-9bfb-95a791f511c7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240712T231601Z&X-Amz-Expires=300&X-Amz-Signature=bff7260e6c992d53d2bbfd4493bee0a9a958700349be7074da151fa3290685e6&X-Amz-SignedHeaders=host&actor_id=135639557&key_id=0&repo_id=828023676))

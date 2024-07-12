@@ -1,0 +1,6 @@
+DISPLAY_NAME=Truce Vendasv2
+DESCRIPTION=V2
+MAIN=index.js
+MEMORY=580
+VERSION=recommended
+AUTORESTART=true
